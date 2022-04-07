@@ -1,0 +1,56 @@
+---
+title: "悲伤的故事"
+date: "2022/4/5"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+>过去心不可得，现在心不可得，未来心不可得!
+
+
+
+
+按时间吧：
+
+
+## R Markdown
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="fig1.jpg"  width="533" height="432">
+
+
+
+
+<audio controls height="100" width="100">
+  <source src="ssss.mp3" type="audio/mpeg">
+  <source src="ssss.mp3" type="audio/ogg">
+  <embed height="50" width="100" src="ssss.mp3">
+</audio>
+
+
+
+
+
